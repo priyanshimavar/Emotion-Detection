@@ -10,8 +10,6 @@ Given text input (and/or prepared data), the model predicts the underlying emoti
 - Evaluation metrics (accuracy, loss, etc.) to judge model performance.
 - Simple script / notebook to run predictions on new examples.
 
-> Note: Adjust this section to match what your code actually does (e.g., specific emotions, model type, dataset).
-
 ## Project Structure
 
 - `Emotion Detection/` – main project folder with code and notebooks.  
